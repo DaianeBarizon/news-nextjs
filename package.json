@@ -5,8 +5,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.0",
+    "bootstrap": "^4.4.1",
     "next": "^10.0.3",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
     "react-is": "^16.8.0",
     "styled-components": "^5.0.0"
