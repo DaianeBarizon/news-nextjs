@@ -18,8 +18,13 @@ cd Client
 `yarn dev`
 
 p/ bugs (detalhes)
-
-|- <span style="color:green"><b>atoms</b></span></br>
+ 
+|- <b>
+```diff
++ green
+```
+atoms
+</b></br>
 | |- buttonLink</br>
 | |- logo</br>
 | |- category</br>
@@ -31,16 +36,16 @@ p/ bugs (detalhes)
 | |- itemSeparator</br>
 | |- input</br>
 
-|- <span style="color:green"><b>molecules</b></span></br>
+|- <span style="color:green"><b><em>green</em>molecules</b></span></br>
 | |- navbarMenu</br>
 | |- searchKeyword</br>
 | |- writerWrapper</br>
 
-|- <span style="color:green"><b>organisms</b></span></br>
+|- <span style="color:green"><b>*green* organisms</b></span></br>
 | |- header</br>
 | |- CardNews</br>
 
-|- <span style="color:green"><b>templates</b></span></br>
+|- <b><span style="color:green">templates</span></b></br>
 | |- index</br>
 
 |- <span style="color:green"><b>pages</b></span></br>
