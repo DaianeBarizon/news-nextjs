@@ -33,17 +33,25 @@ p/ bugs (detalhes)
 | |- itemSeparator</br>
 | |- input</br>
 
-|- <span style="color:green"><b><em>green</em>molecules</b></span></br>
+```diff
++ molecules
+```
 | |- navbarMenu</br>
 | |- searchKeyword</br>
 | |- writerWrapper</br>
 
-|- <span style="color:green"><b>*green* organisms</b></span></br>
+```diff
++ organisms
+```
 | |- header</br>
 | |- CardNews</br>
 
-|- <b><span style="color:green">templates</span></b></br>
+```diff
++ templates
+```
 | |- index</br>
 
-|- <span style="color:green"><b>pages</b></span></br>
+```diff
++ pages
+```
 | |- index</br>
