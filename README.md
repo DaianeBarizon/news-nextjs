@@ -18,13 +18,10 @@ cd Client
 `yarn dev`
 
 p/ bugs (detalhes)
- 
-|- <b>
+
 ```diff
-+ green
++ atoms
 ```
-atoms
-</b></br>
 | |- buttonLink</br>
 | |- logo</br>
 | |- category</br>
