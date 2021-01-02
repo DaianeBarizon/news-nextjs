@@ -19,7 +19,7 @@ cd Client
 
 p/ bugs (detalhes)
 
-|- atoms</br>
+|- <b>atoms</b></br>
 | |- buttonLink</br>
 | |- logo</br>
 | |- category</br>
@@ -31,17 +31,17 @@ p/ bugs (detalhes)
 | |- itemSeparator</br>
 | |- input</br>
 
-|- molecules</br>
+|- <b>molecules</b></br>
 | |- navbarMenu</br>
 | |- searchKeyword</br>
 | |- writerWrapper</br>
 
-|- organisms</br>
+|- <b>organisms</b></br>
 | |- header</br>
 | |- CardNews</br>
 
-|- templates</br>
+|- <b>templates</b></br>
 | |- index</br>
 
-|- pages</br>
+|- <b>pages</b></br>
 | |- index</br>
