@@ -13,15 +13,14 @@ Builds the app for production.
 
 Runs the build app in production mode:
 
-cd Client
-
+cd Client</br>
 `yarn dev`
 
 p/ bugs (detalhes)
 
 Next.js</br>
 Bootstrap</br>
-Hooks:</br>
+Hooks</br>
 
 ```diff
 + atoms
