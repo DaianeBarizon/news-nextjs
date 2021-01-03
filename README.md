@@ -19,6 +19,14 @@ cd Client
 
 p/ bugs (detalhes)
 
+Next.js</br>
+Bootstrap</br>
+Hooks:</br>
+(useState)</br>
+(useEffect)</br>
+(useMemo)</br>
+(useCallback)</br>
+
 ```diff
 + atoms
 ```
