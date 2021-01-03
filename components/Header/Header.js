@@ -20,9 +20,3 @@ export default function Header() {
     </>
   );
 }
-
-/* 
-
-Usei um átomo <Logo /> direto no organismo
-
-*/

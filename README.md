@@ -44,7 +44,7 @@ p/ bugs (detalhes)
 + organisms
 ```
 | |- header</br>
-| |- CardNews</br>
+| |- cardNews</br>
 
 ```diff
 + templates

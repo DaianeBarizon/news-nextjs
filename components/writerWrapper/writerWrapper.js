@@ -3,11 +3,13 @@ import WriterPhoto from '../WriterPhoto/WriterPhoto';
 import Writer from '../Writer/Writer';
 import { Container } from './styles';
 
-export default function writerWrapper() {
+export default function writerWrapper(props) {
   return (
     <Container>
-      <WriterPhoto />
-      <Writer />
+      <WriterPhoto photo={props.photo} alt={props.alt}/>
+      <Writer writter={props.writter}/>
     </Container>
   );
 }
+
+/* props drilling */

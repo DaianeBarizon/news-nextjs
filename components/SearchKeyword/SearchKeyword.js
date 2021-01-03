@@ -8,7 +8,7 @@ export default function searchKeyword() {
     <InputGroup>
         <Input />
       <InputGroup.Append>
-        <ButtonLink />
+        <ButtonLink text="Search"/>
       </InputGroup.Append>
     </InputGroup>
   )

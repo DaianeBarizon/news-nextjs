@@ -2,6 +2,6 @@ import React from 'react';
 
 import { Container } from './styles';
 
-export default function Writer() {
-  return <Container><p>by writer</p></Container>;
+export default function Writer(props) {
+  return <Container><p>{props.writter}</p></Container>;
 }
