@@ -4,7 +4,7 @@ export const Container = styled.div`
   padding: 20px 0;
   
   h1 {
-    font-size: 30px;
+    font-size: 20px;
     color: ${({ theme }) => theme.colors.primary};
   }
 `;
